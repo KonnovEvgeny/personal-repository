@@ -1,0 +1,26 @@
+{
+  "name": "personal-repository",
+  "version": "1.0.0",
+  "description": "Сайт - портфолио Коннова Евгения",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KonnovEvgeny/personal-repository.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KonnovEvgeny/personal-repository/issues"
+  },
+  "homepage": "https://github.com/KonnovEvgeny/personal-repository#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "pulp": "^13.0.0"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
